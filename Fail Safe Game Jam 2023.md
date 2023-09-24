@@ -2,6 +2,13 @@
 
 Welcome to the Fail Safe game jam project! Here you can find the documentation wrote for the Game Jam
 
+
+
+## Useful links
+- [﻿Event](https://toolboxcoworking.com/eventi/fail-safe-game-jam-2023) 
+- [﻿Board](https://pin.it/7BamOUg) 
+
+
 # Theme
 - Insert here the theme of the Jam
 
